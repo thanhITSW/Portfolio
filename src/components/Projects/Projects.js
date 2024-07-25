@@ -33,7 +33,7 @@ function Projects() {
             <ProjectCard
               imgPath={blockchain}
               isBlog={false}
-              title="Tin tức Block Chain"
+              title="Tin tức BlockChain"
               description="Hiển thị tin tức và chi tiết tin tức về mảng blockchain theo nhiều thể loại được code bằng nodeJs kết với với mongoDB để lưu trữ dữ liệu, firebase để lưu trữ dữ liệu hình ảnh. Bên cạnh đó, mình còn làm về Restful API để lấy dữ liệu"
               ghLink="#"
               demoLink="https://tintucblockchain.onrender.com"
